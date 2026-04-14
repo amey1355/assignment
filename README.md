@@ -4,22 +4,6 @@ A clean, production-ready React Native app built with **Expo** and **TypeScript*
 
 ---
 
-## 📱 Screenshots
-
-### 🏠 Home Screen
-![Home Screen](assets/screenshots/home.jpeg)
-
-### 🔍 Search
-![Search](assets/screenshots/search.jpeg)
-
-### 👤 User Details
-![User Details](assets/screenshots/details.jpeg)
-
-### ⏳ Loading Users Screen
-![Loading](assets/screenshots/loading.jpeg)
-
----
-
 ## ✨ Features
 
 - 🔄 **Fetches users** from [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users)
@@ -140,6 +124,22 @@ Returns 10 mock users. Each user contains:
 | `address.city` | City of residence |
 | `company.name` | Employer name     |
 
+
+---
+
+## 📱 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshots/home.jpeg)
+
+### 🔍 Search
+![Search](assets/screenshots/search.jpeg)
+
+### 👤 User Details
+![User Details](assets/screenshots/details.jpeg)
+
+### ⏳ Loading Users Screen
+![Loading](assets/screenshots/loading.jpeg)
 
 ---
 
